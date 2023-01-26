@@ -5,5 +5,8 @@ public class Ogrenci {
 
         System.out.println("Merhaba");
 
+
+
+
     }
 }
